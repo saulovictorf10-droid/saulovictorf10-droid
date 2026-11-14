@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá! Seja bem-vindo ao meu GitHub 👋
 
-<!--
-**saulovictorf10-droid/saulovictorf10-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Desenvolvimento de Sistemas** e tenho interesse em tecnologia, programação e desenvolvimento de soluções digitais.
 
-Here are some ideas to get you started:
+Atualmente, estou aprimorando meus conhecimentos e desenvolvendo projetos práticos para evoluir como desenvolvedor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias e conhecimentos
+
+- C++
+- HTML
+- CSS
+- JavaScript
+- Git e GitHub
+
+## 📂 Projetos em destaque
+
+Aqui você encontrará projetos desenvolvidos durante minha jornada de aprendizado, incluindo aplicações web, sistemas de gerenciamento e soluções para problemas do cotidiano.
+
+## 🎯 Objetivos
+
+- Evoluir minhas habilidades em programação.
+- Desenvolver projetos cada vez mais completos.
+- Aprender novas tecnologias e boas práticas.
+- Construir experiência para ingressar no mercado de tecnologia.
+
+## 📫 Contato
+
+- GitHub: https://github.com/saulovictorf10-droid
+
+---
+
+*Estudando, praticando e construindo projetos constantemente.*
